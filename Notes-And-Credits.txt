@@ -1,4 +1,4 @@
 Copyright © to Scratch Founddation, Scratch Team, and MIT.
 
 
-Eaglerscratch is not a trademark of the Scratch Foundation.
+Eaglerscratch is not a trademark of the Scratch Foundation, Scratch Team, and MIT. It is a copy of Scratch compiled in JS.

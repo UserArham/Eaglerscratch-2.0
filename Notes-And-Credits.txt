@@ -1,4 +1,4 @@
-Copyright © to Scratch Founddation, Scratch Team, and MIT.
+Copyright ©2013-2026 to Scratch Founddation, Scratch Team, and MIT.
 
 
 Eaglerscratch is not a trademark of the Scratch Foundation, Scratch Team, and MIT. It is a copy of Scratch compiled in JS.
